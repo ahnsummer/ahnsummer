@@ -47,7 +47,6 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
              <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a>
-             <img src="https://img.shields.io/badge/JSON-#83B81A?style=flat-square&logo=JSON&logoColor=white"/></a>
              
 </p>
 <!-- <img src="https://img.shields.io/badge/뱃지의이름-색상코드?style=flat-square&logo=심플아이콘즈의로고이름&logoColor=white"/></a> -->
