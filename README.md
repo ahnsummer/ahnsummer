@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
-### About Hye
+### About SoEun
 
 <p>
-   <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
+   <img alig src="https://img.shields.io/badge/-2021soeun@gmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
    &nbsp;
    <a href="https://www.instagram.com/xoeen/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyexox/"/>
@@ -38,6 +38,10 @@ Here are some ideas to get you started:
    <!-- <a href="">
     <img alig src="https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Notion&logoColor=black" />
    </a> -->
-</p> 
+</p>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseoun&show_icons=true&theme=buefy)
 
 
