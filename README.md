@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseoun&show_icons=true&theme=buefy)
 
-
+<!--
 ### About SoEun
 <p>
    <img alig src="https://img.shields.io/badge/-2021soeun@gmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/xoeen/"/>
    </a>&nbsp;
 </p>
+-->
 
 ### Tech Stack
 <p>
