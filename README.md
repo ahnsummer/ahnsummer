@@ -22,3 +22,22 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anseoun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<br>
+### About Hye
+
+<p>
+   <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
+   &nbsp;
+   <a href="https://www.instagram.com/xoeen/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyexox/"/>
+   </a>&nbsp;
+   <a href="https://github.com/hyeye1?tab=overview&from=2021-01-01&to=2021-01-09">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/hyexox/"/>
+   </a>&nbsp;
+   <!-- <a href="">
+    <img alig src="https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=Notion&logoColor=black" />
+   </a> -->
+</p> 
+
+
