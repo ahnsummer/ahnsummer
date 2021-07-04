@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 
 ### About SoEun
-
 <p>
    <img alig src="https://img.shields.io/badge/-2021soeun@gmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
    &nbsp;
@@ -33,8 +32,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/xoeen/"/>
    </a>&nbsp;
 </p>
-
-<br>
 
 ### Tech Stack
 <p>
@@ -51,9 +48,3 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a>
 </p>
-
-
-
-
-
-
