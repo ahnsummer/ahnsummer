@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Spring Framework <br>
 📫 How to reach me:2021soeun@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseoun&show_icons=true&theme=buefy)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anseoun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <br>
 ### About SoEun
@@ -35,6 +31,23 @@ Here are some ideas to get you started:
    <a href="https://github.com/anseoun?tab=overview&from=2021-01-01&to=2021-01-09">
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/xoeen/"/>
    </a>&nbsp;
+</p>
+
+<br>
+
+### Tech Stack
+<p>
+             <img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+             <img src="https://img.shields.io/badge/CSS3-28a4d8?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+             <img src="https://img.shields.io/badge/Bootstrap-6e43a3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
+             <img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+             <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+             <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a>
 </p>
 
 <br>
