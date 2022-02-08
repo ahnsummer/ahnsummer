@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Vue! <br>
+🌱 I’m currently learning vue framework! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br>
 📫 How to reach me : 2021soeun@gmail.com
 
