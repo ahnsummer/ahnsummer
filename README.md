@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br><br>
 📫 How to reach me : 2021soeun@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsummer&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsummer&show_icons=true&theme=moltack)
 
 <!--
 ### About SoEun
