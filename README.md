@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m Soeun Ahn who is currently learning the vue.js <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br><br>
 📫 How to reach me : 2021soeun@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseoun&show_icons=true&theme=buefy)
