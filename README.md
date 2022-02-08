@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Spring Framework <br>
+🌱 I’m currently learning Vue! <br>
 📫 How to reach me : 2021soeun@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anseoun&show_icons=true&theme=buefy)
