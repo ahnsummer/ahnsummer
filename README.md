@@ -1,4 +1,4 @@
-### Hi 👋 , I am Soeun Ahn 😄 <br>
+### Hi there👋 <br>
 
 <!--
 **anseoun/anseoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning vue framework <br>
+🌱 I’m Soeun Ahn who is currently learning the vue.js <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br>
 📫 How to reach me : 2021soeun@gmail.com
 
