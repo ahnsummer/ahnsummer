@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m Soeun Ahn who is currently learning the vue.js <br>
+🌱 I’m Soeun Ahn who is currently learning the react.js <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br><br>
 📫 How to reach me : 2021soeun@gmail.com
 
