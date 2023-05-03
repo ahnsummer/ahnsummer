@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m Soeun Ahn who is currently learning the react.js <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you want to contact me, please check the email! <br><br>
-📫 How to reach me : 2021soeun@gmail.com
+📫 How to reach me : hi.ahnsoeun@gmail.com
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnsummer&theme=flag-india&show_icons=true) -->
 
