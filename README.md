@@ -41,11 +41,13 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-square&logo=StoryBook&logoColor=white"/></a> &nbsp
+             <br>
              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/></a> &nbsp
-             <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-square&logo=StoryBook&logoColor=white"/></a> &nbsp
+             <br>
              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
