@@ -48,14 +48,16 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-square&logo=StoryBook&logoColor=white"/></a> &nbsp
              <br>
              <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
-             <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"> &nbsp
              <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
-             <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> &nbsp
+             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> &nbsp
+             <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"> &nbsp
              <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a> &nbsp
-             <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> &nbsp
+             <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
 </p>
 <!-- <img src="https://img.shields.io/badge/뱃지의이름-색상코드?style=flat-square&logo=심플아이콘즈의로고이름&logoColor=white"/></a> -->
