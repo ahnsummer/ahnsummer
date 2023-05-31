@@ -49,7 +49,6 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-square&logo=StoryBook&logoColor=white"/></a> &nbsp
-             <br>
              <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
